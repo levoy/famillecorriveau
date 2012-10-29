@@ -1,0 +1,43 @@
+<html>
+<!-- Creation date:     03-03-2009 -->
+<!-- Modification date: 19-02-2010 -->
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="description" content="Site de généalogie sur la famille Corriveau par Serge Corriveau">
+        <meta name="keywords" content="Corriveau, famille corriveau, généalogie, genealogy, la corriveau, marie-josephte, marie-josephte corriveau, Québec, étienne, étienne corriveau, ancestry, ancêtre, Forget, Nantel, Senécal, Carriveau, Carvo, Curvo, Corrivaux, Corrivaud, Corrivault, Courivaud">
+	<title> Site de généalogie sur la famille Corriveau </title>
+</head>
+
+
+<body BGCOLOR="#ffffff" TEXT="#000000" LINK="#c8b560" VLINK="#c0c0c0" ALINK="#c0c0c0">
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr> 
+<td bgcolor="0102d9" align="center" valign="top">
+
+	<a href="derniereGen_e.shtml"> English </a> <br>
+	<!--#include virtual="menu/menu_f.html" -->
+
+</td>
+
+<td width="85%"> 
+
+	<h1><center> Les dernières générations </center></h1>
+        <br>
+        <h3><div style="text-align:justify;">
+
+	Voici les descendants de mes arrières grand-parents.
+	<br><br><br>
+
+	<!--#include file="generation/4dernieres_f.html" -->
+
+</td>
+</tr>
+</table>
+
+<br> &copy; 2008 Serge Corriveau
+
+</body>
+</html>
+
